@@ -1,4 +1,4 @@
-# ** CV Generator **
+# CV Generator
 
 ## Introduction
 
